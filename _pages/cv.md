@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Mechanical Engineering, Ramaiah Institute of Technology, 2019 <img src='/images/ritlogo.png'>
+* M.S.E. Robotics Specialization, University of Pennsylvania, 2023 <img src='/images/pennlogo.jpg'>
 
 Work experience
 ======
